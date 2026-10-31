@@ -2,84 +2,78 @@
 
 ### 💻 Técnico de Informática | Desenvolvedor de Software
 
-Bem-vindo ao meu perfil! 🚀
-
-Sou técnico de Informática, interessado no desenvolvimento de software, na criação de aplicações web e na construção de soluções tecnológicas para problemas reais.
-
-Utilizo este espaço para desenvolver projectos, aperfeiçoar as minhas competências e partilhar a minha evolução na área da tecnologia.
+Sou de Angola e tenho interesse no desenvolvimento de aplicações web, APIs e bases de dados. Utilizo este espaço para documentar os meus projectos, praticar boas técnicas de desenvolvimento e acompanhar a minha evolução na área da tecnologia.
 
 ---
 
-## 🎯 Sobre mim
+##  Sobre mim
 
-- 💻 Interessado em desenvolvimento Web e Backend.
-- 🔌 A explorar o desenvolvimento de APIs REST.
-- 🗄️ Interessado em bases de dados e arquitectura de aplicações.
-- 🔐 A aprofundar conhecimentos em segurança de aplicações.
-- 🌍 De Angola, com o objectivo de desenvolver soluções tecnológicas úteis.
-- 📚 Comprometido com a aprendizagem contínua e a melhoria das minhas competências.
+- 💻 Desenvolvo aplicações web e trabalho com backend.
+- 🔌 Estudo e aplico conceitos de APIs REST.
+- 🗄️ Trabalho com bases de dados relacionais.
+- 🔐 Tenho interesse em segurança de aplicações.
+- 📚 Procuro aprender continuamente e construir soluções para problemas reais.
+- 🌍 De Angola, com vontade de contribuir para o crescimento tecnológico.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+##  Tecnologias
 
-### Linguagens de programação
+### Utilizadas nos meus projectos
 - JavaScript
-- Python
-- PHP
-
-### Desenvolvimento Web
-- HTML5
-- CSS3
 - Node.js
 - Express.js
-
-### Bases de dados
-- MySQL
 - PostgreSQL
-
-### Ferramentas
+- HTML5 e CSS3
+- Git e GitHub
 - Visual Studio Code
-- Git
-- GitHub
+
+### Em estudo ou previstas para projectos futuros
+- Python
+- PHP
+- MySQL
+- Linux
+- Docker
 
 ---
 
-## 🚀 Projectos em desenvolvimento
+##  Projectos
 
-### 🏫 Sistema Escolar
-Aplicação web orientada para a gestão de informações escolares, com funcionalidades relacionadas com alunos, matrículas e organização de dados.
+### 🏫 Sistema Integrado Escolar Baptista da Paz
+
+**Estado:** fase final de desenvolvimento.
+
+Aplicação web destinada a apoiar a gestão de informações escolares, incluindo alunos e matrículas. Estou a concluir a funcionalidade de gestão de alunos desistentes, seguindo-se os testes finais e a documentação do sistema.
 
 **Tecnologias:** Node.js, Express.js e PostgreSQL.
 
-### 🌍 Plataforma de Importação para Angola
-Projecto académico orientado para o desenvolvimento de uma plataforma intermediária de importação de produtos para Angola.
+### 🌍 Plataforma Intermediária de Importação de Produtos para Angola
 
-**Objectivo:** estruturar funcionalidades para produtos, cotações, pedidos e logística.
+**Estado:** fase de planeamento — o desenvolvimento ainda não começou.
 
-**Tecnologias previstas:** PHP, MySQL e Python para componentes de segurança, conforme a arquitectura definida.
+Projecto académico pensado para organizar funcionalidades relacionadas com produtos, cotações, pedidos e logística de importação.
 
----
-
-## 📈 Objectivos
-
-- Desenvolver aplicações web funcionais e bem estruturadas.
-- Aprender a conceber e implementar APIs seguras.
-- Melhorar as competências em bases de dados.
-- Aplicar boas práticas de programação.
-- Construir um portefólio com projectos documentados e demonstráveis.
+**Tecnologias previstas:** PHP e MySQL, com Python a ser considerado para componentes de segurança, após a definição da arquitectura.
 
 ---
 
-## 📫 Contacto
+## 📌 Próximos objectivos
+
+- Finalizar e testar o Sistema Escolar.
+- Documentar os projectos de forma clara.
+- Iniciar a implementação da Plataforma de Importação para Angola.
+- Aprofundar conhecimentos em APIs, bases de dados e segurança.
+- Aprender Linux e explorar ferramentas de desenvolvimento como Docker.
+
+---
+
+##  Contacto
 
 - **GitHub:** [@Clemildo123441](https://github.com/Clemildo123441)
 - **Localização:** Angola
 
 ---
 
-### 💡 A minha filosofia
+> 💡 **Filosofia:** transformar ideias em soluções através da tecnologia.
 
-> Transformar ideias em soluções através da tecnologia.
-
-⭐ Obrigado pela visita ao meu perfil!
+ Obrigado pela visita ao meu perfil!
