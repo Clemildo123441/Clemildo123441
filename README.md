@@ -6,7 +6,7 @@ Sou de Angola e tenho interesse no desenvolvimento de aplicações web, APIs RES
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 - 💻 Desenvolvo aplicações web e trabalho com backend.
 - 🔌 Estudo e aplico conceitos de APIs REST.
@@ -17,7 +17,7 @@ Sou de Angola e tenho interesse no desenvolvimento de aplicações web, APIs RES
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 ### 💻 Tecnologias utilizadas nos meus projectos
 
@@ -58,7 +58,7 @@ Sou de Angola e tenho interesse no desenvolvimento de aplicações web, APIs RES
 
 ---
 
-## 🚀 Projectos em destaque
+##  Projectos em destaque
 
 ### 🏫 Sistema Integrado Escolar Baptista da Paz
 
@@ -78,7 +78,7 @@ Projecto académico destinado a organizar funcionalidades relacionadas com produ
 
 ---
 
-## 🎯 Próximos objectivos
+## Próximos objectivos
 
 - Finalizar, testar e documentar o Sistema Escolar.
 - Publicar os projectos com documentação clara e organizada.
@@ -97,4 +97,4 @@ Projecto académico destinado a organizar funcionalidades relacionadas com produ
 
 > 💡 Transformar ideias em soluções através da tecnologia.
 
-⭐ Obrigado por visitares o meu perfil!
+ Obrigado por visitares o meu perfil!
