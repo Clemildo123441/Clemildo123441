@@ -1,6 +1,6 @@
 # 👋 Olá! Sou Clemildo Lungassa
 
-### 💻 Técnico de Informática | Desenvolvedor de Software
+### Técnico de Informática | Desenvolvedor de Software
 
 Sou de Angola e tenho interesse no desenvolvimento de aplicações web, APIs REST, bases de dados e segurança de aplicações. Utilizo este perfil para apresentar os meus projectos, desenvolver as minhas competências técnicas e construir soluções para problemas reais.
 
@@ -8,11 +8,11 @@ Sou de Angola e tenho interesse no desenvolvimento de aplicações web, APIs RES
 
 ##  Sobre mim
 
-- 💻 Desenvolvo aplicações web e trabalho com backend.
-- 🔌 Estudo e aplico conceitos de APIs REST.
-- 🗄️ Trabalho com bases de dados relacionais.
-- 🔐 Tenho interesse em segurança de aplicações e boas práticas de programação.
-- 📚 Procuro aprender continuamente através de projectos práticos.
+-  Desenvolvo aplicações web e trabalho com backend.
+-  Estudo e aplico conceitos de APIs REST.
+-  Trabalho com bases de dados relacionais.
+-  Tenho interesse em segurança de aplicações e boas práticas de programação.
+-  Procuro aprender continuamente através de projectos práticos.
 - 🇦🇴 De Angola, com vontade de contribuir para o crescimento tecnológico.
 
 ---
